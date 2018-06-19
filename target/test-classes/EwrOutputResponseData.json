@@ -1,0 +1,4124 @@
+{
+	"ewrRecords": [
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4AJWAG0EL126672"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWCG6FL506165"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4AJWAG5FL738593"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4AJWAG2GL321711"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X2",
+			"ewrModelYear": "2010",
+			"vin": "1J4BB3H16AL232307"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J4GA59118L573837"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J4GA39188L606546"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J4GA39118L510256"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2010",
+			"vin": "1J4BA3H13AL127324"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4BJWFG4CL249708"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4BJWEG9CL192262"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4BJWDG5CL151063"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4BJWFG3EL234250"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4HJWFG3EL240964"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4BJWDGXEL157797"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWDG8FL586650"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWDG4FL610085"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWEG2FL508265"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWDG9FL649769"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWFG3FL641924"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWEG1FL651644"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4BJWDGXFL609202"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4BJWDG9GL323567"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4BJWEG6GL261866"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4BJWDG0GL149288"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4",
+			"ewrModelYear": "2017",
+			"vin": "1C4BJWEG8HL571051"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 4-DR 4X4 RHD",
+			"ewrModelYear": "2013",
+			"vin": "1C4BJWKG7DL570259"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "RAM",
+			"ewrModel": "1500 CREWCAB",
+			"ewrModelYear": "2017",
+			"vin": "1C6RR6STXHS622152"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "RAM",
+			"ewrModel": "2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2017",
+			"vin": "3C6UR5FLXHG502812"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4NJRFB6FD197399"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG1FC776579"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG1FC196489"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG7FC149810"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG8FC637227"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG4FC877504"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG5FC661078"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG4FC913840"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG7FC774917"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG5FC893891"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBGXFC941500"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4RJFBG6GC462752"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2017",
+			"vin": "1C4RJFBGXHC760500"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY",
+			"ewrModelYear": "2010",
+			"vin": "1J4PP2GK1AW117740"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J8GN58K18W262825"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J8GN28K68W227695"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY 4X4",
+			"ewrModelYear": "2010",
+			"vin": "1J4PN5GK3AW165053"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4PN2GK1BW515540"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "LIBERTY 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4PJMAK4CW133607"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4NF1GB6BD156843"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4NF1GB0BD196609"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4NJRBB1CD616857"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2013",
+			"vin": "1C4NJRFB2DD212719"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJRFB5ED717252"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJRFBXED551536"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJRBB0ED910642"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJRBB1ED591543"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJRFB2ED501987"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJRFB8GD808972"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJRFBXGD627677"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2009",
+			"vin": "1J4FT28B09D220838"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2010",
+			"vin": "1J4NT2GB1AD593792"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2012",
+			"vin": "1C4NJPFB9CD610612"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2012",
+			"vin": "1C4NJPBB6CD511235"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2013",
+			"vin": "1C4NJPFA3DD251606"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJPFA6ED700021"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJPBB8ED722133"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJPCB1ED737605"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJPFB7ED690608"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2015",
+			"vin": "1C4NJPBA9FD285381"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2015",
+			"vin": "1C4NJPFB1FD349044"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJPBA6GD748689"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "PATRIOT FWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJPBA0GD514273"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "ZACCJBCTXFPB46548"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "ZACCJBCT9FPB42877"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "ZACCJBAT0GPE08145"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "ZACCJBDT0GPD68239"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "ZACCJBDT9GPC80595"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "RENEGADE FWD",
+			"ewrModelYear": "2015",
+			"vin": "ZACCJABH0FPB71044"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J4GA64138L504516"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J4FA24118L539138"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2010",
+			"vin": "1J4AA2D19AL134872"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2010",
+			"vin": "1J4BA6D19AL203510"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "WRANGLER 2-DR 4X4",
+			"ewrModelYear": "2013",
+			"vin": "1C4BJWCG0DL512623"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCABXFN705393"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB1FN702530"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB3FN691417"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCBB3FN584933"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB1FN732918"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB8FN578742"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB1FN614903"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB4FN676666"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB5FN632272"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB8FN617765"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB6FN504705"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCBG8FN517515"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB6FN700305"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB2FN685382"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCCG1FN509948"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCABXGN118631"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCAB5GN124076"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCAB9GN192154"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCAB9GN189643"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCBB9GN114309"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2016",
+			"vin": "1C3CCCFB5GN171472"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2017",
+			"vin": "1C3CCCAB5HN504892"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2017",
+			"vin": "1C3CCCAB1HN500791"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCACG1CH222733"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCAET3CH249958"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCAAG8CH141165"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCAAG8CH289140"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCAET4CH261200"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2013",
+			"vin": "2C3CCAAG0DH556241"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2014",
+			"vin": "2C3CCAAG4EH159908"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2014",
+			"vin": "2C3CCAAG4EH138461"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2015",
+			"vin": "2C3CCABG9FH922456"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300",
+			"ewrModelYear": "2016",
+			"vin": "2C3CCAEG3GH243537"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2008",
+			"vin": "2C3KK33G28H121184"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2012",
+			"vin": "2C3CCAHG0CH213160"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2013",
+			"vin": "2C3CCAKG2DH743950"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2013",
+			"vin": "2C3CCARG5DH634145"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2014",
+			"vin": "2C3CCARG1EH303936"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2015",
+			"vin": "2C3CCAGG7FH767477"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "300 AWD",
+			"ewrModelYear": "2015",
+			"vin": "2C3CCAKG7FH808553"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "ASPEN 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1A8HW58288F134941"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "ASPEN 4X4",
+			"ewrModelYear": "2009",
+			"vin": "1A8HW58P09F708591"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1DG6HR511306"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1EG5HR587484"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1BG4HR610189"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1BG4HR511971"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1BG4HR592714"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PACIFICA",
+			"ewrModelYear": "2017",
+			"vin": "2C4RC1GG3HR556117"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PT CRUISER",
+			"ewrModelYear": "2008",
+			"vin": "3A8FY48B68T108307"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "PT CRUISER",
+			"ewrModelYear": "2009",
+			"vin": "3A8FY58939T560087"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "SEBRING",
+			"ewrModelYear": "2010",
+			"vin": "1C3CC5FB8AN205858"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "SEBRING CONV",
+			"ewrModelYear": "2008",
+			"vin": "1C3LC55R38N267340"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "SEBRING CONV",
+			"ewrModelYear": "2010",
+			"vin": "1C3BC5ED7AN138538"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2010",
+			"vin": "2A4RR5D12AR153011"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2011",
+			"vin": "2A4RR8DGXBR800794"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2011",
+			"vin": "2A4RR5DG5BR604132"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2011",
+			"vin": "2A4RR5DG3BR727332"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR6GT7ES439778"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR6FT9ES358525"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR6FT3FS654674"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR6GT1FS638519"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6GTXGS226780"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6FT8GS348474"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6FT4GS389670"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6GT3GS179186"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB SWB",
+			"ewrModelYear": "2008",
+			"vin": "1D7HA18268J214434"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB SWB",
+			"ewrModelYear": "2008",
+			"vin": "1D7HA18N28J153383"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 REGCAB SWB",
+			"ewrModelYear": "2008",
+			"vin": "1D7HA16N68J188429"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 REGCAB SWB",
+			"ewrModelYear": "2008",
+			"vin": "1D7HA16K68J196018"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 REGCAB SWB",
+			"ewrModelYear": "2012",
+			"vin": "3C6JD6APXCG237240"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 REGCAB SWB",
+			"ewrModelYear": "2013",
+			"vin": "3C6JR6AT5DG507071"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "124 SPIDER",
+			"ewrModelYear": "2017",
+			"vin": "JC1NFAEK7H0117054"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "124 SPIDER",
+			"ewrModelYear": "2017",
+			"vin": "JC1NFAEK8H0103177"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500",
+			"ewrModelYear": "2013",
+			"vin": "3C3CFFAR9DT553688"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500",
+			"ewrModelYear": "2014",
+			"vin": "3C3CFFAR5ET229431"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500",
+			"ewrModelYear": "2015",
+			"vin": "3C3CFFGEXFT732569"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500",
+			"ewrModelYear": "2016",
+			"vin": "3C3CFFAR6GT184566"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500L",
+			"ewrModelYear": "2014",
+			"vin": "ZFBCFACH4EZ002665"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500L",
+			"ewrModelYear": "2014",
+			"vin": "ZFBCFABH1EZ002947"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500X",
+			"ewrModelYear": "2016",
+			"vin": "ZFBCFXCT1GP381551"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "FIAT",
+			"ewrModel": "500X AWD",
+			"ewrModelYear": "2016",
+			"vin": "ZFBCFYDT3GP343551"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJLCB1EW262589"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJLCS1EW319051"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJLCS8EW117016"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJLCB8FW700607"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJLCB9FW781343"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJLAB8GW329582"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJLCB7GW291792"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMAB3EW145914"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMCS0EW286050"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMDSXEW311664"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMBB2EW132831"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMBS3EW310942"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4PJMDS7EW265033"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMBS7FW623607"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMCS3FW792439"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMDB5FW758713"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMCB5FW699440"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMAB6FW752259"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMDB2FW741268"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMCS4FW668129"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMCS4FW577989"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4PJMCB4FW749101"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMBS9GW299853"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMBS2GW373744"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMDB0GW181512"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMCS7GW140277"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMCB3GW306164"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMDS2GW333905"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMDS4GW322517"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMCS2GW334344"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMBS9GW188820"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CB4HA4AD535016"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CB4HA6AD610458"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CB4HA9AD532516"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2012",
+			"vin": "1C3CDWDA9CD532131"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CJ4DV6AH289195"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CJ4DVXAH157654"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CJ5DT4AH103786"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2012",
+			"vin": "2C3CDYBT7CH294072"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2012",
+			"vin": "2C3CDYBT2CH157010"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2012",
+			"vin": "2C3CDYAGXCH246702"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2013",
+			"vin": "2C3CDYCJ6DH631135"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2015",
+			"vin": "2C3CDZBG2FH728251"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2015",
+			"vin": "2C3CDZAG0FH703561"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2015",
+			"vin": "2C3CDZAG5FH764260"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2016",
+			"vin": "2C3CDZFJ7GH124945"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2016",
+			"vin": "2C3CDZAG4GH254855"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHALLENGER",
+			"ewrModelYear": "2016",
+			"vin": "2C3CDZAG1GH256014"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2008",
+			"vin": "2B3KA43G58H303726"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2008",
+			"vin": "2B3KA43R38H276043"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CA3CV3AH152873"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CA3CV9AH245543"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2010",
+			"vin": "2B3CA3CV3AH301122"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2011",
+			"vin": "2B3CL1CGXBH556383"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2012",
+			"vin": "2C3CDXHG6CH244493"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2012",
+			"vin": "2C3CDXBG1CH202287"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXCT7EH226835"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXBG6EH314716"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXBG4EH309076"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXAT7EH259529"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXAT7EH216258"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2015",
+			"vin": "2C3CDXHG7FH798808"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2015",
+			"vin": "2C3CDXBG0FH844021"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER",
+			"ewrModelYear": "2016",
+			"vin": "2C3CDXHG9GH267580"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER AWD",
+			"ewrModelYear": "2013",
+			"vin": "2C3CDXJGXDH584760"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CHARGER AWD",
+			"ewrModelYear": "2014",
+			"vin": "2C3CDXJG8EH296396"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDFBA0DD233258"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDFBH6DD133453"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDFCHXDD712220"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDFBA9DD267120"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDFAA6DD230771"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDFBB5ED681117"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDFBB2ED901555"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDFBBXED823400"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2015",
+			"vin": "1C3CDFDH1FD224548"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2015",
+			"vin": "1C3CDFAA9FD391330"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2015",
+			"vin": "1C3CDFBB0FD200675"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2016",
+			"vin": "1C3CDFBB4GD607626"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2016",
+			"vin": "1C3CDFFA9GD816135"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2016",
+			"vin": "1C3CDFAA0GD505412"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2016",
+			"vin": "1C3CDFAA4GD738712"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DART",
+			"ewrModelYear": "2016",
+			"vin": "1C3CDFAA5GD712281"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO",
+			"ewrModelYear": "2013",
+			"vin": "1C4SDHCT1DC690458"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO",
+			"ewrModelYear": "2014",
+			"vin": "1C4RDHDG0EC537538"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO",
+			"ewrModelYear": "2014",
+			"vin": "1C4RDHEG8EC520338"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO",
+			"ewrModelYear": "2015",
+			"vin": "1C4RDHDG8FC200729"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO",
+			"ewrModelYear": "2017",
+			"vin": "1C4RDHAG8HC740816"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 LWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5HL9FG650590"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2012",
+			"vin": "3C6UD5CL2CG316001"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2014",
+			"vin": "3C6UR5DL2EG187065"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2014",
+			"vin": "3C6UR5DJ9EG272502"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5DLXFG667419"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5CLXFG650203"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5DLXFG685273"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5CL5FG513928"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 SWB",
+			"ewrModelYear": "2016",
+			"vin": "3C6UR5CL7GG125133"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 MEGACAB 4X4",
+			"ewrModelYear": "2016",
+			"vin": "3C6UR5NL5GG244778"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 MEGACAB 4X4",
+			"ewrModelYear": "2016",
+			"vin": "3C6UR5PL1GG317139"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 REGCAB 4X4",
+			"ewrModelYear": "2015",
+			"vin": "3C6LR5AT1FG516078"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7VM1GS285332"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2012",
+			"vin": "UNK"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2013",
+			"vin": "1C6RR7NT5DS607148"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2013",
+			"vin": "1C6RR7LT3DS550905"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2013",
+			"vin": "1C6RR7NT9DS580908"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR7PT5ES440174"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR7PT9ES341695"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR7KT1ES452278"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR7NT9ES466053"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR7LM8FS670758"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7LM3GS230948"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7YT5GS254880"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7YT0GS217915"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7YT4GS380194"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7MT6GS180844"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "3C6RR7LT9GG272040"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7YT2GS271393"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "3C6RR7LT3GG364311"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7MTXGS289050"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2009",
+			"vin": "1D3HB13P49S798958"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2012",
+			"vin": "1C6RD6MT5CS331918"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2013",
+			"vin": "1C6RR6KT7DS513593"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR6KT3ES251332"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR6LT6ES272013"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR6PM9FS638793"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR6NT8FS514430"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR6LG3FS714668"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "3C6RR6LTXGG364090"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6LT9GS376126"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 CREWCAB LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR6LT6GS182346"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2011",
+			"vin": "1D7RV1GT5BS588523"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2012",
+			"vin": "1C6RD7FT9CS264887"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2013",
+			"vin": "1C6RR7FP7DS549528"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2014",
+			"vin": "1C6RR7GG2ES193862"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR7FT9FS713345"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2015",
+			"vin": "1C6RR7GT6FS747421"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB 4X4 LWB",
+			"ewrModelYear": "2016",
+			"vin": "1C6RR7GG4GS214049"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2010",
+			"vin": "1D7RB1GP4AS217637"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "RAM1500 QUADCAB LWB",
+			"ewrModelYear": "2011",
+			"vin": "1D7RB1GP3BS672996"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2012",
+			"vin": "2C4RC1BG4CR232366"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2012",
+			"vin": "2C4RC1BG1CR158162"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2012",
+			"vin": "2C4RC1BG7CR375361"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2013",
+			"vin": "2C4RC1BG3DR775497"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2013",
+			"vin": "2C4RC1GG5DR595530"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2013",
+			"vin": "2C4RC1BG4DR754982"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2013",
+			"vin": "2C4RC1BG3DR659166"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2014",
+			"vin": "2C4RC1BG0ER272088"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2014",
+			"vin": "2C4RC1CG7ER165232"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2014",
+			"vin": "2C4RC1BG6ER156412"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2014",
+			"vin": "2C4RC1HG7ER377203"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2014",
+			"vin": "2C4RC1BG5ER131873"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2015",
+			"vin": "2C4RC1BG4FR601893"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2016",
+			"vin": "2C4RC1BG5GR150054"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2016",
+			"vin": "2C4RC1BGXGR228506"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2016",
+			"vin": "2C4RC1CG5GR194375"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2016",
+			"vin": "2C4RC1BG4GR138509"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "TOWN&COUNTRY",
+			"ewrModelYear": "2016",
+			"vin": "2C4RC1CG8GR194399"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2008",
+			"vin": "1B3LC46KX8N241312"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC5FB1AN224863"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC5FB7AN127702"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC4FB5AN161339"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC4FB1AN154873"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC5FB5AN230617"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CC4FB6AN209687"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2011",
+			"vin": "1B3BD1FG8BN513401"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2011",
+			"vin": "1B3BD1FB9BN509457"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2012",
+			"vin": "1C3CDZEG3CN165872"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2012",
+			"vin": "1C3CDZAB6CN220289"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2012",
+			"vin": "1C3CDZAB7CN209558"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2012",
+			"vin": "1C3CDZCB4CN311848"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZCB3DN572261"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZCB9DN669058"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB5DN710434"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZCB1DN716132"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB6DN610343"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB3DN755789"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB1DN662544"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAG7DN749490"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB1DN754480"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB7DN752247"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB4DN677362"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZABXDN618011"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB5DN651899"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2013",
+			"vin": "1C3CDZAB1DN543828"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAG9EN233083"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAGXEN182113"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZBG5EN136560"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAB5EN126049"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAB9EN149303"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAB0EN202616"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAB0EN116044"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "AVENGER",
+			"ewrModelYear": "2014",
+			"vin": "1C3CDZAB7EN232468"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2008",
+			"vin": "1B3HB48B98D545811"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "CALIBER",
+			"ewrModelYear": "2010",
+			"vin": "1B3CB4HA6AD536233"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2013",
+			"vin": "1C4RDJAG3DC687363"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4RDJAGXEC323460"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2015",
+			"vin": "1C4RDJAG2FC245502"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4SDJCT3GC375365"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4RDJAGXGC409869"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "DURANGO AWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4RDJEG3GC331638"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2008",
+			"vin": "2D8HN54P58R707266"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2011",
+			"vin": "2D4RN4DG3BR706253"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2011",
+			"vin": "2D4RN5DG9BR660823"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2011",
+			"vin": "2D4JN1AG2BR698632"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2012",
+			"vin": "2C4RDGCG6CR275251"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2012",
+			"vin": "2C4RDGDG6CR100674"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2012",
+			"vin": "2C4RDGDG0CR110973"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2012",
+			"vin": "2C4RDGBG7CR380737"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2013",
+			"vin": "2C4RDGCG6DR549601"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2013",
+			"vin": "2C4RDGCG3DR568039"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2014",
+			"vin": "2C4RDGCG6ER266195"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2014",
+			"vin": "2C4RDGBG5ER452229"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2014",
+			"vin": "2C4RDGCG3ER210392"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2015",
+			"vin": "2C4RDGBG7FR747768"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2016",
+			"vin": "2C4RDGCG0GR356381"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "GRAND CARAVAN",
+			"ewrModelYear": "2016",
+			"vin": "2C4RDGCG1GR273347"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2009",
+			"vin": "3D4GG47B29T209509"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2010",
+			"vin": "3D4PG4FBXAT102617"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2012",
+			"vin": "3C4PDCBG4CT367490"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2012",
+			"vin": "3C4PDCDG5CT373733"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2013",
+			"vin": "3C4PDCAB7DT576925"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2013",
+			"vin": "3C4PDCBGXDT592255"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2013",
+			"vin": "3C4PDCBG1DT581368"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2014",
+			"vin": "3C4PDCBG6ET126551"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2014",
+			"vin": "3C4PDCAB5ET166190"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2014",
+			"vin": "3C4PDCAB9ET281195"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2014",
+			"vin": "3C4PDCAB8ET170539"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCGB6FT645372"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCGG4FT713728"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCBG6FT673580"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCBG4FT743495"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCBG9FT574221"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCAB4FT631155"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2015",
+			"vin": "3C4PDCAB3FT746569"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2016",
+			"vin": "3C4PDCBB8GT186855"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2016",
+			"vin": "3C4PDCBG9GT102229"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2016",
+			"vin": "3C4PDCAB7GT111047"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2016",
+			"vin": "3C4PDCBG2GT209977"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY",
+			"ewrModelYear": "2017",
+			"vin": "3C4PDCAB5HT573303"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY AWD",
+			"ewrModelYear": "2011",
+			"vin": "3D4PH1FG5BT549087"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "JOURNEY AWD",
+			"ewrModelYear": "2012",
+			"vin": "3C4PDDBG9CT336936"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "NITRO 4X2",
+			"ewrModelYear": "2008",
+			"vin": "1D8GT58K18W138343"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "NITRO 4X2",
+			"ewrModelYear": "2010",
+			"vin": "1D4PT2GK6AW114725"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "PROMASTER 1500 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6TRVAG0FE516720"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "PROMASTER 1500 SWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6TRVNG9FE519724"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "PROMASTER CITY",
+			"ewrModelYear": "2016",
+			"vin": "ZFBERFAT8G6B48286"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 LWB",
+			"ewrModelYear": "2012",
+			"vin": "3C6UD5HL3CG109612"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 LWB",
+			"ewrModelYear": "2013",
+			"vin": "3C6UR5JL5DG520877"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "DODGE",
+			"ewrModel": "R2500 CCAB 4X4 LWB",
+			"ewrModelYear": "2015",
+			"vin": "3C6UR5HL3FG594193"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBCB4CN303842"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBCG9CN241396"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBBB8CN172920"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBBG8CN184643"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBBG5CN321750"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBAB7CN158055"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBBB2CN175716"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBHG7CN161314"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBCB5CN298618"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2012",
+			"vin": "1C3CCBHG4CN242223"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBAG8DN767796"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBAB4DN559547"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBBB7DN569794"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBAB8DN686043"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBCG1DN767944"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBBB1DN521952"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBBB4DN577397"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBAB4DN608438"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2013",
+			"vin": "1C3CCBBB8DN571067"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2014",
+			"vin": "1C3CCBBB7EN171566"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2014",
+			"vin": "1C3CCBAB3EN231120"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2014",
+			"vin": "1C3CCBAB9EN121737"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2014",
+			"vin": "1C3CCBCG7EN150727"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2014",
+			"vin": "1C3CCBAB9EN207629"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCABXFN670807"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "CHRYSLER",
+			"ewrModel": "200",
+			"ewrModelYear": "2015",
+			"vin": "1C3CCCAB0FN714300"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFAG2EC262725"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG1EC219895"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFAG7EC128888"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFCG7EC441727"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFAG2EC566850"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG9EC335796"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG7EC470629"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG3EC183126"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG6EC376063"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFJT9EC251914"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG9EC196205"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBM1FC785420"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG3FC631920"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG6FC680379"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG2FC840354"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFJT0FC692784"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG2FC172961"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG1FC678961"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFJT3FC741167"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG3FC106466"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBG8FC142928"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFAG8FC923837"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJFBGXFC753995"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4PJMCS9GW105479"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "CHEROKEE 4X4",
+			"ewrModelYear": "2017",
+			"vin": "1C4PJMAB7HW532129"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMMANDER",
+			"ewrModelYear": "2008",
+			"vin": "1J8HH48K38C184958"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMMANDER 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J8HG48N68C242915"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4NF1FB2BD135568"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4NF1FB7BD283098"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJDEB3ED810405"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJDEB5ED644324"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJDCB0ED626042"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJDEBXED605938"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJDBB3GD535741"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJDBBXGD778639"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJDEBXGD802577"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS 4X4",
+			"ewrModelYear": "2017",
+			"vin": "1C4NJDEB7HD109032"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2012",
+			"vin": "1C4NJCBA0CD678061"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2012",
+			"vin": "1C4NJCEA1CD567935"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2013",
+			"vin": "1C4NJCBA6DD168749"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2013",
+			"vin": "1C4NJCEBXDD166216"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJCBA4ED777274"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJCEB5ED707951"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2014",
+			"vin": "1C4NJCBA6ED581885"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "COMPASS FWD",
+			"ewrModelYear": "2016",
+			"vin": "1C4NJCBA8GD560832"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2009",
+			"vin": "1J8HS48P69C513716"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2010",
+			"vin": "1J4PS4GK7AC121450"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2011",
+			"vin": "1J4RS4GG5BC644813"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2011",
+			"vin": "1J4RS5GG0BC660004"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJEAG9CC307375"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2013",
+			"vin": "1C4RJEAG6DC569615"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJEBG0EC573692"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJEJG5EC248263"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJEBM7FC780510"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2015",
+			"vin": "1C4RJEBG1FC160388"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE",
+			"ewrModelYear": "2016",
+			"vin": "1C4RJEAG0GC451645"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2008",
+			"vin": "1J8GR48K78C198886"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2010",
+			"vin": "1J4RR5GT7AC135237"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4RR4GG2BC574537"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4RR6GTXBC596889"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4RR6GT9BC620745"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2011",
+			"vin": "1J4RR4GT1BC632246"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJFAG9CC221988"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJFAG1CC313743"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJFAG3CC326106"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJFAG9CC279857"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2012",
+			"vin": "1C4RJFCGXCC249036"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2013",
+			"vin": "1C4RJFCT9DC630715"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2013",
+			"vin": "1C4RJFAG0DC507214"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2013",
+			"vin": "1C4RJFCG4DC643875"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBM0EC505016"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBGXEC463013"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG5EC535638"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFAGXEC131428"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFBG5EC447088"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFJG2EC207367"
+		},
+		{
+			"ewrId": "3",
+			"ewrReportId": "684",
+			"ewrMake": "JEEP",
+			"ewrModel": "GRAND CHEROKEE 4X4",
+			"ewrModelYear": "2014",
+			"vin": "1C4RJFAG4EC150640"
+		}
+	]
+}
